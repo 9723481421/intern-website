@@ -1,0 +1,9 @@
+
+
+.blog{
+    height: 300px;
+    width: 400px;
+    border:1px solid black;
+    background-image:url(img/photo-1528855275993-0f4a23fedd62\ \(2\).avif);
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,9 @@
+.section{
+    /* height: 800px; */
+    /* width: 100%; */
+    /* border: 1px solid black ; */
+    background:  rgba(168, 132, 109, 0.7)url(img/photo-1490129375591-2658b3e2ee50.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
